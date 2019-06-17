@@ -1,10 +1,10 @@
-Hiding keys
-Sequelize belongsToMany
+Hiding keys √
+Sequelize belongsToManyå
 Testing
-Bootstrap cards
+Bootstrap cards √
   - showing data
   - multiple cards
-
+Handlebars √
 
 Maybe
   - Eslint
